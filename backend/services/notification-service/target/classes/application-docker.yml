@@ -36,4 +36,5 @@ management:
 logging:
   level:
     com.ecommerce.notification: DEBUG
-    org.springframework.kafka: INFO 
+    org.springframework.kafka: INFO
+    org.springframework.data.mongodb: DEBUG 

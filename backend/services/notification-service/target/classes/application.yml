@@ -7,7 +7,7 @@ spring:
     
   data:
     mongodb:
-      uri: mongodb://localhost:27017/notification-service
+      uri: mongodb://mongodb:27017/notification-service
       
   kafka:
     bootstrap-servers: localhost:9092
